@@ -1,4 +1,9 @@
-# Import-Export-MS
-Simple DBMS project to maintain the trading info.
-Front-end : Java (JFrames)
-Back-end : MySql
+## Sure-Trader [Import-Export Management System]
+
+-- Application Developed to Monitor Products Import and Export Information.
+
+-- Front-end : Java (Swings)
+
+-- Back-end : MySql
+
+-- This was a Database Management Course Project
